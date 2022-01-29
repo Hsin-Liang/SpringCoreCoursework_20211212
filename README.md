@@ -17,7 +17,7 @@
 
 - [x] 請使用 **Java 8 stream** 進行資料分析並取得 mary 的老師有誰? (印出 name)
 
-  程式碼: [CourseworkTest1](https://github.com/Hsin-Liang/SpringCoreCoursework_20211212/tree/main/src/test/java/pers/hsinliangchang/coursework/SpringCoreCoursework_20211212/coursework_1)
+  程式碼: [CourseworkTest1](https://github.com/Hsin-Liang/SpringCoreCoursework_20211212/blob/main/src/test/java/pers/hsinliangchang/coursework/SpringCoreCoursework_20211212/coursework_1/CourseworkTest1.java)
 
 ### 2021/12/26 - Coursework 2
 
