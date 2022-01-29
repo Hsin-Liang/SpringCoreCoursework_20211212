@@ -23,7 +23,7 @@
 
 - [x] 完成 JsonDB.java 如果 person 已存在則 return false (name、age、birth 皆與目前資料庫某一 person 資料相同)
 
-  程式碼: [JavaDB](https://github.com/Hsin-Liang/SpringCoreCoursework_20211212/tree/main/src/main/java/pers/hsinliangchang/coursework/SpringCoreCoursework_20211212/coursework_2/JavaDB.java)
+  程式碼: [JsonDB](https://github.com/Hsin-Liang/SpringCoreCoursework_20211212/tree/main/src/main/java/pers/hsinliangchang/coursework/SpringCoreCoursework_20211212/coursework_2/JsonDB.java)
 
 - [x] 完成 PersonSystem.java 選項3 ~ 7資料分析與處理
 
